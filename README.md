@@ -15,4 +15,4 @@ cpan[1]> install Encoding::BER
 
 once installation is completed without error then just run the script as below 
 
-perl rdp-sec-check.pl <target IP> 
+perl rdp-sec-check.pl IP
